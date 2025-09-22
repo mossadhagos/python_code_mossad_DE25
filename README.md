@@ -1,3 +1,6 @@
 # python_code_mossad_DE25
 
-i will commit this 
+HELLO, IM MOSSAD HAGOS
+
+- I AM CURRENTLY STUDYING DATA ENGINEERING IN STOCKHOLM
+
